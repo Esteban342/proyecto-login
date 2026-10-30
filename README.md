@@ -51,4 +51,4 @@ node server.js
 
 El servidor estará corriendo en http://localhost:3000
 
-Proyecto de práctica para aprender GitHub.
+
